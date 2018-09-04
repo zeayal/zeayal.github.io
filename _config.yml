@@ -78,6 +78,6 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: github 
+  type: git
   repository: git@github.com-zeayal:zeayal/zeayal.github.io.git
   branch: master
